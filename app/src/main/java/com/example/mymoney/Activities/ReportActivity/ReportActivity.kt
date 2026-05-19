@@ -21,7 +21,7 @@ class ReportActivity : AppCompatActivity() {
         val windowInsetsController = androidx.core.view.WindowCompat.getInsetsController(window, window.decorView)
         windowInsetsController.systemBarsBehavior = androidx.core.view.WindowInsetsControllerCompat.BEHAVIOR_SHOW_TRANSIENT_BARS_BY_SWIPE
         windowInsetsController.hide(androidx.core.view.WindowInsetsCompat.Type.systemBars())
-        
+
         setContent {
             ReportScreen(
                 budgets = mainViewModel.loadBudget(),

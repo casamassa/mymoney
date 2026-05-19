@@ -4,9 +4,9 @@ import com.example.mymoney.Domain.ExpenseDomain
 
 class MainRepository {
     val items = mutableListOf(
-        ExpenseDomain("Restaurant", 573.12, "img1", "17 jun 2025 19:15"),
-        ExpenseDomain("McDonald", 77.82, "img2", "16 jun 2025 13:57"),
-        ExpenseDomain("Cinema", 23.47, "img3", "16 jun 2025 20:45"),
-        ExpenseDomain("Restaurant", 573.12, "img1", "15 jum 2025 22:18")
+        ExpenseDomain("Resturant", 573.12, "resturant", "17 jun 2025 19:15"),
+        ExpenseDomain("McDonald", 77.82, "mcdonald", "16 jun 2025 13:57"),
+        ExpenseDomain("Cinema", 23.47, "cinema", "16 jun 2025 20:45"),
+        ExpenseDomain("Resturant", 573.12, "resturant", "15 jum 2025 22:18")
     )
 }

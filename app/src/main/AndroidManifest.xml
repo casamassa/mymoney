@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyMoney">
         <activity
+            android:name=".Activities.ReportActivity.ReportActivity"
+            android:exported="false" />
+        <activity
             android:name=".Activities.IntroActivity.IntroActivity"
             android:exported="true">
             <intent-filter>
@@ -24,9 +27,7 @@
             android:name=".Activities.DashboardActivity.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.MyMoney">
-
-        </activity>
+            android:theme="@style/Theme.MyMoney"></activity>
     </application>
 
 </manifest>

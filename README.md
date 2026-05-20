@@ -22,8 +22,13 @@ O **MyMoney** é um aplicativo nativo para Android focado no gerenciamento e org
       <h3>Dashboard</h3>
       <img src="./screenshots/dashboard.png" width="220" alt="Dashboard"/>
     </td>
+    <td align="center">
+      <h3>Navegação</h3>
+      <img src="./screenshots/animated.gif" width="220" alt="Navegação"/>
+    </td>
   </tr>
 </table>
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas

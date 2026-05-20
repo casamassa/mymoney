@@ -8,23 +8,23 @@ O **MyMoney** é um aplicativo nativo para Android focado no gerenciamento e org
 
 ## 📱 Demonstração
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center">
+    <td align="center" width="25%" valign="top">
       <h3>Intro</h3>
-      <img src="./screenshots/intro.png" width="220" alt="Tela Inicial"/>
+      <img src="./screenshots/intro.png" style="max-height: 450px; width: auto;" alt="Tela Inicial"/>
     </td>
-    <td align="center">
+    <td align="center" width="25%" valign="top">
       <h3>Transações</h3>
-      <img src="./screenshots/transactions.png" width="220" alt="Tela de Transações"/>
+      <img src="./screenshots/transactions.png" style="max-height: 450px; width: auto;" alt="Tela de Transações"/>
     </td>
-    <td align="center">
+    <td align="center" width="25%" valign="top">
       <h3>Dashboard</h3>
-      <img src="./screenshots/dashboard.png" width="220" alt="Dashboard"/>
+      <img src="./screenshots/dashboard.png" style="max-height: 450px; width: auto;" alt="Tela de Dashboard"/>
     </td>
-    <td align="center">
+    <td align="center" width="25%" valign="top">
       <h3>Navegação</h3>
-      <img src="./screenshots/animated.gif" width="220" alt="Navegação"/>
+      <img src="./screenshots/animated.gif" style="max-height: 450px; width: auto;" alt="Navegação"/>
     </td>
   </tr>
 </table>
